@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://plombier-morbihan.netlify.app/sitemap.xml
+Sitemap: https://lartisan-plombier-morbihannais.netlify.app/sitemap.xml
